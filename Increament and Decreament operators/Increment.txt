@@ -1,0 +1,5 @@
+Increament and Decreament operators:
+   >>'++'operators increase the value of operand by one 
+   >> a++ ->if an operation is done on "a++" first the operation is done then increases i.e. x+a++=(x+a)+1
+   >> ++a ->if an operation is done on "++a" first the operation is done  after value of a  increases i.e. x+a++=x+(a+1)
+   >>'--' operator works similarly but decreasing
