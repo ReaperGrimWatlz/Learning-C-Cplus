@@ -2,15 +2,15 @@ Tokens in C & C++
 Token is a generic word for Data types, Varibles , Constants and identifiers
 KEYWORDS:
   >Keywords have fixed meaning that cannot be changed.
-  >They can't be used as variable names
-  >There are 32 key words in c
-  >some are: auto, break, case,char,enum,extern,etc
+  >They can't be used as variable names.
+  >There are 32 key words in c.
+  >some are: auto, break, case,char,enum,extern,etc.
 Constants:
-  >These are fixed values
-  >They do not change during the program execution
+  >These are fixed values.
+  >They do not change during the program execution.
   >They are of two types:
-    >Numeric
-    >Character
+    >Numeric.
+    >Character.
             Data types
   Name      |Specification|   format
   Integer   |int          |    %d
@@ -31,6 +31,6 @@ Variables:
      >eg-john,marks,sum,etc.
 Identifiers:
   >Indentifiers are user defined names.
-  >An identifier consists of letter and digits
-  >Both upper case and lowercase letter are permitted
-  >First character must be alphabet or under score
+  >An identifier consists of letter and digits.
+  >Both upper case and lowercase letter are permitted.
+  >First character must be alphabet or under score.

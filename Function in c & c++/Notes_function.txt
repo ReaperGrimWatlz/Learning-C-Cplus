@@ -1,11 +1,10 @@
 
 Functions:
-  >A function is a self-contained program executing a specific task
-  > Every program consists of atleast 1 function i.e. "int main(){}"
-  > once executed the control will return back to the function where it was accessed format
+  >A function is a self-contained program executing a specific task.
+  > Every program consists of atleast 1 function i.e. "int main(){}".
+  > once executed the control will return back to the function where it was accessed format.
   syntax:
   ret-type func_name(parameters ){
     main block of code
     return ret-type data;
   }
-Scope of Variables:

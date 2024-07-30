@@ -1,0 +1,5 @@
+Scope of Variables:
+  >It is a region of code within which the variable can be accessed.
+  >Depending on its type and place of declaration it is divided into two types:
+            1>Global variable,
+            2>Local variable.

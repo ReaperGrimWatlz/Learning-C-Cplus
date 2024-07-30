@@ -1,0 +1,12 @@
+Conditional Statement:
+  >A Statement in a program controls the flow of program execution.
+  >It helps to make decision on, what code is to be executed.
+  >We can check conditions, wheather true or false.
+  >We can execute a single statement or group of them
+
+                               _Condition_
+                              /          \
+                     (True)  /            \ (False)
+                            /              \
+                           /                \
+                      Statement 1         Statement 2
