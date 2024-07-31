@@ -1,5 +1,5 @@
 Logical operators:
->>.
->>.
->>.
->>.
+>>In C and C++, true is any value other than 0.
+  >>Non zero=True.
+  >>zero=False.
+>>Expression using logical operators return 1 for true and 0 for false.
