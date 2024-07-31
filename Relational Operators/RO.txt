@@ -1,0 +1,6 @@
+Relational operators:
+>>Relational operators are used to compare integer and floating point  numbers.
+>>Expressions using relational operators return 0 for false and 1 for true.
+>>Return Values:
+  <> 0 when False.
+  <> 1 when true.
