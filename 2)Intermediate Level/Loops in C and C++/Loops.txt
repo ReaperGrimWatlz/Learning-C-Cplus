@@ -8,7 +8,14 @@ syntax
 while (condition){
     statemetns bockls
 }
+do...while loop:
+
 do{
     statement block;
 }
 while(condition);
+
+For loop:
+for(variable initialization; condition;var id operator){
+    statement
+}
