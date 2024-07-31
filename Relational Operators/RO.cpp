@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int a,b;
     cout<<"Enter the value of a and b"<<endl;
-    scanf("%d %d",&a,&b);
+    cin>>a>>b;
     if(a>b)
         cout<<a<<" is greater than "<<b<<endl;
     else if (a<b)
