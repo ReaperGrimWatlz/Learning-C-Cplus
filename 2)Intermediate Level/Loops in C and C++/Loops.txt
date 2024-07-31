@@ -1,0 +1,14 @@
+>Loops are used to execute a group of instruction repeatedly.
+         Types of loop:
+        >While loop
+        >do...while loop
+        >for loop
+While loop:
+syntax
+while (condition){
+    statemetns bockls
+}
+do{
+    statement block;
+}
+while(condition);
