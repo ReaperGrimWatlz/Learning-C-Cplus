@@ -1,0 +1,10 @@
+Introduction:
+>When one or more variables are grouped under one name it is known as structure.
+>Structure is used to group different data into one object.
+>It is called as compund data-type.
+>It is used to group related information together.
+declare
+struct struct_name;
+structure with  variables to call
+struct struct_name struct_var;
+see code to clear.
