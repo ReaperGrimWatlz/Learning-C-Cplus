@@ -1,0 +1,4 @@
+Introduction:
+>Point to location in memory;
+>Pointers store the memory address;
+>They also give value stored in that address;
