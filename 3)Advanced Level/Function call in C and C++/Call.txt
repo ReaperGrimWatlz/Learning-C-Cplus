@@ -1,0 +1,11 @@
+<>Call by value:
+>>It is a method of passing arguments to the function.
+>>When we pass a variable by value it makes a copy of the variable.
+>>Before passing to the function.
+>>Changes to the arguments in the  function will remain in function only.
+>>It will not be affected outside the function.
+<>Call by reference:
+>>It is another method of passing arguments to the function.
+>>This method copies the address of the argument instead of value.
+>>Changes made to the argument inside a function can affect them outside.
+>>In this we need to declare the arguments as pointer type.
