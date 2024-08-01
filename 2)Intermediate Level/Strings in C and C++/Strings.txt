@@ -1,0 +1,11 @@
+Introduction:
+>String is a squence of character that is treated as single data item.
+>size of string= len of string + 1.
+Declare:
+ char name_of_string[size];
+ eg: char names[10];
+Initialize:
+ char var_name[size]="string";
+        or
+ char var_name[]={'S','t','r','i','n','g'};
+  
