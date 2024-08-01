@@ -1,0 +1,14 @@
+Introduction:
+>These are groups of functions implementing operations on strings.
+>Various operations such as copying concatenation, searching are supported.
+types of str lib function:
+Strcpy-
+ strncpy(char st1, char str2, int n);
+ n is the number of char to be replaced in 1 from 2;
+ eg: char strncpy(char hello, char world, 2)=Wollo;
+Strlen-
+strcmp-
+ strncmp(char str1, char str2, int n);
+ compare first n char of str2 from str1, returns true or false;
+ eg: int strncmp(char ice, char icecream, 3)=0;
+strcat-
