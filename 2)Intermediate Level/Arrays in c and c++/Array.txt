@@ -1,0 +1,16 @@
+Array:
+>>Array is the collection of data or elements of same data-type.
+>>Array index starts from 0.
+>>The first element is stored at index 0.
+>>There are three types of arrays:
+   >>Single Dimensional Array.
+   >>Two Dimensional Array.
+   >>Multi Dimensional Array.
+1-D array syntax:
+Declaration
+|>data_type arr_name[size];
+  >eg. int star[5]
+  >star[0] to star[4]
+Initialisation
+data type  arr_name[size]={elements};
+ eg int start[3]={1,2,3};
