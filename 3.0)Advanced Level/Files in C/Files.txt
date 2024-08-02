@@ -1,0 +1,10 @@
+<>Introduction:
+>>File is collection of data.
+>>It can be a database, a program, or a letter.
+>>C supports file handeling,i.e. Create read write open a file.
+syntax:
+fp=fopen("filename","mode");
+modes:
+w- create file for read and write.
+r- opens file for reading.
+a- writing at the end of file.

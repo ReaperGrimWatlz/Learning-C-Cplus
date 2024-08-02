@@ -1,0 +1,14 @@
+define~contains
+ stdio.h--defines core input and output functions
+stdlib.h----numeric conversion function,pseudo random number generetion function,memory allocation and version control functions
+int main (int argc-- number of command line arguments passed to the program including name of the program
+, char **argv-- contains actual arguments
+argv[0]-->Name of the executable file name (default is ./a.out or ./a.exe))
+argv[1] and argv[2] will be arguments passed to the program{
+    printf("Total number of arguments are %d\n",argc);
+    printf("The first argument is %s\n",argv[1]);
+    while(argc--){
+        printf("arguments are %s\n",*argv++);
+    }
+    return 0;
+}

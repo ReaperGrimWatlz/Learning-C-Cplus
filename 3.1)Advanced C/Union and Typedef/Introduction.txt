@@ -1,0 +1,15 @@
+<>typedef:
+>>used to give symbolic name to an existing type or user defined datatypes.
+>>It is a way to define alias to the commands.
+>>It helps provide clarity to the code.
+>>It makes code more readable.
+typedef existing_name alias_name;
+ex:
+  >>typedef unsigned int uint;
+              |
+              |
+              |
+              |
+            \    /
+             \  /
+             unsigned int means only +ve int
