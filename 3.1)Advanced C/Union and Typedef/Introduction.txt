@@ -13,3 +13,19 @@ ex:
             \    /
              \  /
              unsigned int means only +ve int
+<>Union:
+>>Union is a collection of different data types grouped together.
+>>Union allocates one common storage space for all its members.
+>>We can access only one member of union at a time.
+syntax1
+union union_name{
+  members;
+  members;
+}
+union variable;
+Syntax2
+union union_name{
+  members;
+  members;
+};
+union union_name union variable;

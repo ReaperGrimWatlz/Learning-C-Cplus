@@ -1,0 +1,35 @@
+<>Introduction:
+>>Specifiers tell compiler where to store a var.
+>>How to store the variabe.
+>>What is the initial value of the variable.
+>>Life time of the variable.
+<>syntax
+>>storage_specifier data_type variable;
+<>Types
+>>auto
+>>static
+>>extern
+>>register
+<>auto.
+>>Auto keyword declares an automatic variable.
+>>It has a local scope.
+>>Keywords are not initialized automaticaly.
+>>You should explicitly initialize keywords while declaring.
+>>Storage space of keywords is CPU memory.
+<>Static
+>>static variables are initialized to 0.
+>>They are not destroyed even after program exits from the block.
+>>Value of the variable persists between different function calls.
+>>Storage is CPU memory.
+>>Static can't lose their value.
+<>Extern
+>>Scope of extern is throught the program.
+>>Definition for extern variable might be anywhere in the C program.
+>>Extern variable are initialized to 0 by default.
+>>They can be acced by all functions in the program.
+>>Stored in CPU memory.
+<>register
+>>Register var will be accessed faster than normal variables.
+>>They are stored in register memory rather than main memory.
+>>Limited numbers only, becuase size of resister memory is quite low.
+>>(16 bits, 32 bits or 64bits)

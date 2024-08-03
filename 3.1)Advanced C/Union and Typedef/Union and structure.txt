@@ -1,0 +1,22 @@
+                                  Union:        
+>Union Allocates a common storage space for all its members.
+>Uses less memory space.
+>union student{
+    int marks;
+    char name[6];
+    double average;
+};
+>>Memory allocation for union variable will be 8bytes.
+>>As double type will occupy max memory space.
+
+                                   Structure:
+>Strcture allocates seperate storage space for all its members.
+>Uses high memory.
+>struct student
+{
+    int marks;
+    char name[6];
+    double average;
+};
+>>Would use 16 bytes memory.
+>>2bytes(int)+6bytes(char)+8bytes(double)=16byts

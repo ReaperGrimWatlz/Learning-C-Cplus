@@ -9,7 +9,7 @@
 }*/
 int main(){
     FILE *fp;
-    fp=fopen("Files.txt","r");
+    fp=fopen("a.out","r");
     char c;
     if (fp==NULL){
     printf("File doesn't exist");
